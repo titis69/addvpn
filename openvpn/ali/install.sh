@@ -9,7 +9,7 @@
 #
 
 # [ URL File Hosting ]
-url="https://raw.githubusercontent.com/DindaPutriFN/DindaPutriFN/main/openvpn/ali"
+url="https://raw.githubusercontent.com/titis69/addvpn/main/openvpn/ali"
 
 # [ Memperbaiki Port OpenSSH ]
 #if [[ -z $(cat /etc/ssh/sshd_config | grep "22") ]]; then cat <(echo "Port 22") /etc/ssh/#sshd_config > /etc/ssh/sshd_config.tmp && mv /#etc/ssh/sshd_config.tmp /etc/ssh/sshd_config; fi
